@@ -1,11 +1,12 @@
 Attribute VB_Name = "ConsultarElementoMayor"
+
 Sub ConsultarElementoMayor()
 
     Dim numeroInventario As String
     Dim texto As Variant
     Dim info As Object
     
-    texto = Application.InputBox("Introduzca el número de inventario", "Número de inventario")
+    texto = Application.InputBox("Introduzca el nÃºmero de inventario", "NÃºmero de inventario")
     
     If texto = False Then
         Exit Sub
