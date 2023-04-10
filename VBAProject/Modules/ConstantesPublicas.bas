@@ -1,4 +1,2 @@
 Attribute VB_Name = "ConstantesPublicas"
-Public Const version As String = "0.1"
-
-
+Public Const VERSION As String = "0.1"
