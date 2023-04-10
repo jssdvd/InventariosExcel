@@ -24,5 +24,5 @@ InventarioUIS-Excel usa múltiples proyectos de código libre o de uso gratuito 
 
 1. Descargar e instalar [Libre Barcode 128](https://fonts.google.com/specimen/Libre+Barcode+128?query=128).
 2. Descargar archivo _**ClaveAcceso.bas**_ ubicado en Google Drive.
-3. Descargar la [última versión](github.com/jssdvd/InventarioUIS-Excel/releases/latest) de InventarioUIS-Excel.
+3. Descargar la [última versión](http://github.com/jssdvd/InventarioUIS-Excel/releases/latest) de InventarioUIS-Excel.
 4. Abrir InventarioUIS-Excel y dirigirse a _**Control de versiones**_, luego hacer “click” en _**Importar clave de acceso**_.
