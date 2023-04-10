@@ -16,7 +16,7 @@ InventarioUIS-Excel usa múltiples proyectos de código libre o de uso gratuito 
 
 | Proyecto | Descripción |
 | ------ | ------ |
-| [Libre Barcode 128]() | Fuente con el tipo de códigos de barra 128 |
+| [Libre Barcode 128](https://fonts.google.com/specimen/Libre+Barcode+128?query=128) | Fuente con el tipo de códigos de barra 128 |
 | [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) | Librería para análisis de la notación JSON |
 | [Google Drive](https://www.google.com/intl/es/drive/) | Servicio de alojamiento y sincronización de archivos |
 
