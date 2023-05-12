@@ -1,4 +1,4 @@
-# **InventarioUIS-Excel**
+# **InventariosExcel**
 
 Multiherramienta personalizada principalmente para la automatización, digitalización y edición de listados, formatos e imágenes respectivamente para la sección de inventarios de la división financiera de la Universidad Industrial de Santander.
 
@@ -24,5 +24,5 @@ InventarioUIS-Excel usa múltiples proyectos de código libre o de uso gratuito 
 
 1. Descargar e instalar [Libre Barcode 128](https://fonts.google.com/specimen/Libre+Barcode+128?query=128).
 2. Descargar archivo _**ClaveAcceso.bas**_ ubicado en Google Drive.
-3. Descargar la [última versión](http://github.com/jssdvd/InventarioUIS-Excel/releases) de InventarioUIS-Excel.
+3. Descargar la [última versión](http://github.com/jssdvd/InventariosExcel/releases) de InventarioUIS-Excel.
 4. Abrir InventarioUIS-Excel y dirigirse a _**Control de versiones**_, luego hacer "click" en _**Importar clave de acceso**_.
